@@ -201,6 +201,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\ContosoContext.cs" />
+    <Compile Include="Models\ContosoInitialiser.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Enrolment.cs" />
     <Compile Include="Models\IdentityModels.cs" />
