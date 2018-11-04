@@ -9,7 +9,7 @@ namespace mvcContosoUniversity.Models
 {
     public class ContosoContext : DbContext
     {
-        public ContosoContext() : base("DefaultContext")
+        public ContosoContext() : base("DefaultConnection")
         {
         }
 
